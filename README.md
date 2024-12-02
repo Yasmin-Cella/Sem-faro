@@ -1,5 +1,7 @@
 #include <LiquidCrystal.h>
 
+//alunos: Jheniffer de Oliveira e Yasmin Cella Machado - 2024
+
 // Pinos do semáforo
 const int redPin = 10;         // LED vermelho do semáforo de carros
 const int yellowPin = 9;       // LED amarelo do semáforo de carros
